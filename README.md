@@ -61,6 +61,7 @@ The script generates two graphs:
 ![Not Found](https://github.com/pulkit8690/MultiThreading/blob/d2314b1503480a7805961d42dbae0b9460205bc6/output1.png)
 
 3. **CPU USUAGES**
+   
 ![Not](https://github.com/pulkit8690/MultiThreading/blob/cbb6a413dbc6423e3679ac607cab054273dce329/cpu1.jpeg) ![not found](https://github.com/pulkit8690/MultiThreading/blob/cbb6a413dbc6423e3679ac607cab054273dce329/cpu2.jpeg) ![Not Found](https://github.com/pulkit8690/MultiThreading/blob/cbb6a413dbc6423e3679ac607cab054273dce329/cpu3.jpeg) ![Not Found](https://github.com/pulkit8690/MultiThreading/blob/cbb6a413dbc6423e3679ac607cab054273dce329/cpu4.jpeg)
 
 ### Conclusion
