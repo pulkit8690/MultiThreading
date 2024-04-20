@@ -51,6 +51,7 @@ The script generates two graphs:
 | 7       | 15.803305      |
 | 8       | 15.763509      |
 
+![Not Found](https://github.com/pulkit8690/MultiThreading/blob/e92a565dca56146e49eefe0d0f73c9e9bbdc874a/Time%20taken%20vs%20No.%20of%20Threads.jpeg)
 
 ### Conclusion
 From the results obtained, we can draw the following conclusions:
