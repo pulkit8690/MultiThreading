@@ -38,6 +38,19 @@ Before running the script, ensure you have the following installed:
 The script generates two graphs:
 - Time Taken vs Number of Threads: This graph shows the time taken for matrix multiplication using different numbers of threads. It also compares the actual time taken with the expected time.
 - CPU Usage vs Number of Threads: This graph shows the CPU usage for each CPU core as green grid lines. The peak points are labeled as CPU 0, CPU 1, CPU 2, and so on.
+  ### Time Taken (s) vs Threads
+
+| Threads | Time Taken (s) |
+|---------|----------------|
+| 1       | 18.023243      |
+| 2       | 17.352902      |
+| 3       | 16.807090      |
+| 4       | 17.607774      |
+| 5       | 17.891347      |
+| 6       | 16.900062      |
+| 7       | 15.803305      |
+| 8       | 15.763509      |
+
 
 ### Conclusion
 From the results obtained, we can draw the following conclusions:
