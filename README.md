@@ -53,9 +53,10 @@ The script generates two graphs:
 
 ### Graphical Results
 1. **Cores Utilization**: A line plot showing CPU utilization over the course of matrix multiplication experiments. This visualization provides insights into how effectively CPU cores are utilized during multi-threaded computation tasks.
+
 ![Not Found](https://github.com/pulkit8690/MultiThreading/blob/e92a565dca56146e49eefe0d0f73c9e9bbdc874a/Time%20taken%20vs%20No.%20of%20Threads.jpeg)
 
-2. **CPU USUAGE vs Number of Threads**:
+3. **CPU USUAGE vs Number of Threads**:
 
 ![Not Found](https://github.com/pulkit8690/MultiThreading/blob/d2314b1503480a7805961d42dbae0b9460205bc6/output1.png)
 
